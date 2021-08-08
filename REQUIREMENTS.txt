@@ -1,0 +1,7 @@
+• Front End: Python – Django. 
+
+• Back End: MySQL Work Bench. 
+
+• Web Browser: Google Chrome, Microsoft Bing, Mozilla Firefox. …etc
+
+• Platform: Windows 7 and higher version, Linux.
